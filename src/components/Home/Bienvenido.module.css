@@ -1,0 +1,10 @@
+.Bienvenido{
+    background-image: url(/src/img/fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    position: cover;
+    min-height: 100vh
+ }
+ 

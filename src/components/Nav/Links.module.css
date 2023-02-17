@@ -1,0 +1,27 @@
+.links {
+    color: rgb(61, 228, 11);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5%;
+    background-color: black;
+    border-radius: 90%;
+    margin-right: 20%;
+    margin-left: 5%
+}
+
+
+.logout {
+    text-decoration: none;
+    color: black;
+    font-size: 1,5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 10px 20px;
+  }
