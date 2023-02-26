@@ -1,0 +1,23 @@
+.descripcion {
+    color: whitesmoke;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    background-color:black;
+}
+
+.p {
+    color:whitesmoke;
+    text-align: center;
+    padding: 10px;
+    background-color:black;
+    border: 1px solid gray;
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  

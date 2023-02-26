@@ -1,0 +1,48 @@
+
+.Card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:rgb(61, 228, 11);
+    text-align: center;
+    border-radius: 2em;
+    background-color: black;
+    margin-left: 1em;
+    padding: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+.Card:hover {
+    background-color: rgb(61, 228, 11);
+    color: black;
+    box-shadow: 0 0 20px rgba(255,255,255,0.5);
+    }
+
+.buttonX {
+    background-color: rgb(61, 228, 11);
+    size:2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    font-weight: bold;
+    
+}
+.text {
+    color: rgb(61, 228, 11);
+    size:2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+.corazon{
+  margin-left: 80%;
+}
+
+.img{
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: -20px auto 0 auto;
+    text-align: center;
+ }

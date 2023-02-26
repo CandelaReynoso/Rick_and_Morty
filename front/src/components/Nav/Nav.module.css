@@ -1,0 +1,12 @@
+.nav{
+    background-color: rgb(61, 228, 11);
+    text-align: right;
+    padding: 1em;
+    border-radius: 1em;
+    border-color: black;
+    color: black;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-image: black;
+  }
+
